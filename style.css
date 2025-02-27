@@ -20,6 +20,30 @@
   --font-size: 5px bold;
   --paragraph: 16px;
   --subtitle: 16px;
+
+  /* font-color */
+  --accent-blue: #0C51A7;
+  --accent-orange: #E95E10;
+  --accent-pink: #E5245E;
+  --accent-purple: #591B98;
+}
+
+
+.accent-blue {
+    color: var(--accent-blue);
+}
+
+.accent-orange {
+    color: var(--accent-orange);
+    
+}
+
+.accent-pink {
+    color: var(--accent-pink);
+}
+
+.accent-purple {
+    color: var(--accent-purple);
 }
 
 #container {
@@ -35,9 +59,13 @@
   font-size: var(--font-size);
 }
 
+.espace {
+    margin-bottom: 30px;
+}
+
 img {
   max-width: 100%;
-  padding-bottom: 20px;
+  margin-bottom: 20px;
 }
 
 main {
