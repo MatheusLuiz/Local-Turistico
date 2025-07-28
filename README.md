@@ -19,7 +19,7 @@ Projeto de uma página web com informações sobre um determinado local turísti
 <br>
 
 <p align="center">
-  <img alt="Preview do projeto desenvolvido." src="github/Preview.png" width="60%">
+  <img alt="Preview do projeto desenvolvido." src="github/preview.png" width="60%">
 </p>
 
 
