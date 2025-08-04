@@ -3,17 +3,17 @@
 </p>
 
 <p align="center">
-Projeto de uma página web com informações sobre um determinado local turístico.
+  Projeto de uma página web com informações sobre um ponto turístico, desenvolvido durante as aulas de HTML e CSS.
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias Usadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias-usadas">Tecnologias Usadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=0F172A&labelColor=1D4ED8">
+  <img alt="Licença MIT" src="https://img.shields.io/static/v1?label=license&message=MIT&color=0F172A&labelColor=1D4ED8">
 </p>
 
 <br>
@@ -22,20 +22,24 @@ Projeto de uma página web com informações sobre um determinado local turísti
   <img alt="Preview do projeto desenvolvido." src="github/preview.png" width="60%">
 </p>
 
+---
 
 ## 🚀 Tecnologias Usadas
 
-Esse projeto foi possivel trabalhar com os seguintes temas :
+Durante o desenvolvimento deste projeto, foram trabalhados os seguintes conceitos:
 
-- Estrutura HTML
-- Estilizações com CSS
-- Fontes
-- Espaçamentos
-- Imagens
-- Listas desordenadas
-- Alteração das cores dos Textos
-- Alterações dos pesos dos textos;
+- Estruturação de conteúdo com **HTML**
+- Estilização com **CSS**
+- Utilização de **fontes personalizadas**
+- Definição de **espaçamentos** e **alinhamentos**
+- Inserção de **imagens**
+- Criação de **listas desordenadas**
+- Customização de **cores e pesos tipográficos**
 
-## Projeto
+## 💡 Projeto
 
-Nesse foi possível desenvolver um pagina web com informações sobre determinado local turistico. Nessa pagina foi posssível praticar o conhecimento com o HTML e CSS!
+Este projeto consiste em uma página web informativa sobre um local turístico específico. A proposta foi exercitar os conhecimentos adquiridos em **HTML e CSS**, aplicando práticas como organização de conteúdo, uso de imagens, estilos personalizados e tipografia.
+
+## :memo: Licença
+
+Este projeto está sob a licença MIT. 
