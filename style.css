@@ -114,3 +114,13 @@ footer {
 footer img {
     vertical-align: text-top;
 }
+
+
+@media (max-width: 768px) {
+  #container {
+    width: calc(100% - 20px);
+    margin: 20px auto;
+    border-radius: 5px;
+    padding: 20px;
+  }
+}
